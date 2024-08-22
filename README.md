@@ -1,2 +1,2 @@
-# 078_Isyana_pertemuan1
+# 078_Isyana_pbo
 Arsip penugasan mata kuliah PBO pada pertemuan ke-1
