@@ -9,11 +9,8 @@ public class Soal2 {
         System.out.println("Daftar barang sebelum pengadaan:");
         inventori.showBarang();
 
-        // Melakukan pengadaan barang
-        inventori.pengadaan();
-
         // Menampilkan daftar barang setelah pengadaan
         System.out.println("\nDaftar barang setelah pengadaan:");
-        inventori.showBarang();
+        inventori.pengadaan();
     }
 }
