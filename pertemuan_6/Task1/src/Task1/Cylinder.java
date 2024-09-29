@@ -1,5 +1,6 @@
 package Task1;
 
+
 public class Cylinder extends Circle { 
     private double height; 
 
@@ -24,7 +25,7 @@ public class Cylinder extends Circle {
 
     @Override
     public double getArea() {
-        return 2 * Math.PI * getRadius() * height + 2 * super.getArea();
+        return 2 * Math.PI * getRadius() * (height + getRadius());
     }
 
     public double getVolume() {
