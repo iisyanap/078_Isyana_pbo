@@ -1,0 +1,6 @@
+projectKey=pbo_week13
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=pbo_week13
+ceTaskId=057a7e44-ef3d-44a5-a65a-6f4e3ba4f155
+ceTaskUrl=http://localhost:9000/api/ce/task?id=057a7e44-ef3d-44a5-a65a-6f4e3ba4f155
